@@ -1,4 +1,3 @@
----
 ## ❓ Usage (Windows)
 
 1. Download Node.js v18.18.2:
