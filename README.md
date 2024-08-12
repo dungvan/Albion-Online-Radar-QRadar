@@ -1,19 +1,3 @@
-## ✨ Join Discord
-- Link: https://discord.gg/rKKVqUdP3p
-
----
-
-## ❓ What is QRadar?
-Albion QRadar provide a real-time map, aiding players in detecting other players, creatures, and resources nearby.
-
----
-## ❓ If you want to use in game items
-
-- Link: https://www.mediafire.com/file/fa96b300q7ompjb/Items.rar/file
-
-### Video Tutorial
-### Link: https://www.youtube.com/watch?v=_luNHJXrD5o
-
 ---
 ## ❓ Usage (Windows)
 
